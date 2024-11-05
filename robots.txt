@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oqutiudi.github.io/IEH/sitemap_index.txt
+Sitemap: https://oqutiudi.github.io/Kxs/sitemap_index.txt
+Sitemap: https://oqutiudi.github.io/OTM/sitemap_index.txt
+Sitemap: https://oqutiudi.github.io/gov/sitemap_index.txt
